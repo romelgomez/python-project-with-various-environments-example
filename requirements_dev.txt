@@ -1,2 +1,2 @@
-aiohttp==3.4.4
+aiohttp==3.8.5
 jsonpickle==1.0
